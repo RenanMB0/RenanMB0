@@ -1,14 +1,14 @@
 ### OI, EU SOU RENAN
 
 
-🔭 Atualmente, trabalho como Analista de T.I.
+🔭 ATUALMENTE ESTOU ATUANDO COMO ANALISTA DE T.I
 
-🌱 Estou me capacitando em PYTHON, SQL, APACHE SPARK, PYSPARK, MACHINE LEARNING, DATABRICKS E CLOUD COMPUTING - AWS, AZURE, GOOGLE CLOUD
+🌱 ESTOU ME ESPECIALISANDO E PYTHON, SQL, APACHE SPARK, PYSPARK, MACHINE LEARNING, DATABRICKS E CLOUD COMPUTING - AWS, AZURE, GOOGLE CLOUD
 
-👯 Estou buscando oportunidades para colaborar e aplicar meus conhecimentos em projetos de análise de dados.
+👯 ESTOU BUSCANDO UMA OPORTUNIDADE PARA ATUAR COM ENGENHEIRO DE DADOS, CIENTISTA DE DADOS OU ANALISTA DE DADOS
 
-💬 Pergunte-me sobre qualquer tópico relacionado à Engenharia de Dados, Ciência de Dados ou Analise de Dados estou sempre disposto a ajudar!
+💬 PERGUNTE-ME SOBRE QUALQUER TOPICO DE CIENCIA DE DADOS, QUE FICAREI HONRADO EM TE AUXLIAR.
 
-📫 Entre em contato comigo por: renanmariab@gmail.com, linkedin.com/in/renan-maria-balbino-706b5619b/, +55 (11) 939036963
+📫 ENTRE EM CONTANTO COMIGO ATRAVÉS DE: renanmariab@gmail.com, linkedin.com/in/renan-maria-balbino-706b5619b
 
-😄 Pronomes: Ele/Dele
+😄 PRONOMES: ELE/DELE
