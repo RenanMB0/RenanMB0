@@ -1,4 +1,4 @@
-### Oi, me chamo Renan
+### OI, EU SOU RENAN
 
 
 🔭 Atualmente, trabalho como Analista de T.I.
