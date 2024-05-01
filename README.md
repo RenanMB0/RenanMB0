@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oi, me chamo Renan
 
-<!--
-**RenanMB0/RenanMB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 Atualmente, trabalho como Analista de T.I.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estou me capacitando em PYTHON, SQL, APACHE SPARK, PYSPARK, MACHINE LEARNING, DATABRICKS E CLOUD COMPUTING - AWS, AZURE, GOOGLE CLOUD
+
+👯 Estou buscando oportunidades para colaborar e aplicar meus conhecimentos em projetos de análise de dados.
+
+🤔 Procuro ativamente por uma vaga na área de Engenharia de Dados, onde possa utilizar minhas habilidades e implementar o que estou aprendendo.
+
+💬 Pergunte-me sobre qualquer tópico relacionado à Engenharia de Dados, Ciência de Dados ou Analise de Dados estou sempre disposto a ajudar!
+
+📫 Entre em contato comigo por: renanmariab@gmail.com, linkedin.com/in/renan-maria-balbino-706b5619b/, +55 (11) 939036963
+
+😄 Pronomes: Ele/Dele
